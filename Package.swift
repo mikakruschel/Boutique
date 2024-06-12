@@ -23,7 +23,7 @@ let package = Package(
         .target(
             name: "Boutique",
             dependencies: [
-                .byName(name: "Bodega"),
+                .product(name: "Bodega", package: "bodega"),
                 .product(name: "OrderedCollections", package: "swift-collections")
             ],
             exclude: [
