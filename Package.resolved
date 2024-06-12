@@ -3,10 +3,10 @@
     {
       "identity" : "bodega",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/mergesort/Bodega.git",
+      "location" : "https://github.com/Dimillian/bodega.git",
       "state" : {
-        "revision" : "f0554077c178088ba11557bbdbb71775cc6a1b84",
-        "version" : "2.1.0"
+        "branch" : "main",
+        "revision" : "a144ed8afdd760b65b6b9a136ba8bb75cd19387e"
       }
     },
     {
@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/stephencelis/SQLite.swift.git",
       "state" : {
-        "revision" : "4d543d811ee644fa4cc4bfa0be996b4dd6ba0f54",
-        "version" : "0.13.3"
+        "revision" : "a95fc6df17d108bd99210db5e8a9bac90fe984b8",
+        "version" : "0.15.3"
       }
     },
     {
